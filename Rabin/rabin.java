@@ -2,7 +2,7 @@
 import java.util.Scanner;
 import java.math.*;
 
-public class Rabin 
+public class rabin 
 {
 public static double crt(double a1, double a2, int m1, int m2)
  {
